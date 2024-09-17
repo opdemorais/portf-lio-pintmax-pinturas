@@ -1,0 +1,38 @@
+.body {
+  color: black;
+  background-color: white;
+}
+
+header {
+  color: #5d1f2e;
+}
+
+img {
+  width: 150px;
+  height: 150;
+  border-radius: 20%;
+  border: 5px solid greenyellow;
+}
+
+p {
+  color: blue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+a {
+  color: black;
+}
+
+.button {
+  color: red;
+}
+
+.container {
+  color: #a3c14a;
+}
+
+.button {
+  border-radius: 50%;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
